@@ -8,8 +8,7 @@ Pay special attention to db.js - note the **port number** indicated that is diff
 ### POST at endpoint /user/register
 Allows a new user to be created with a username and password. 
 #### Success:
-![image of user register success]
-(https://jlfarrington.github.com/workoutLog/images/farrington-WOL-userRegister-success.png)
+<img src="/images/farrington-WOL-userRegister-success.png">
 
 ### POST at endpoint /user/login
 Allows an existing user to log in. 
