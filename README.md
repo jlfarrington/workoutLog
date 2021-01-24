@@ -45,4 +45,4 @@ Allows individual logs to be deleted by a user.
 
 
 #### Failure:
-<img src="/images/farrington-WOL-deleteLog-failure.png>
+<img src="/images/farrington-WOL-deleteLog-failure.png">
