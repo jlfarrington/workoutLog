@@ -13,44 +13,36 @@ Allows a new user to be created with a username and password.
 ### POST at endpoint /user/login
 Allows an existing user to log in. 
 #### Success:
-![image of user login success]
-(https://jlfarrington.github.com/workoutLog/images/farrington-WOL-login-success.png)
+<img src="/images/farrington-WOL-login-success.png">
 
 ### POST at endpoint /log/
 Allows a user to create a workout log with descriptions, definition results, and owner properties.
 #### Success:
-![image of create workout log success]
-(https://jlfarrington.github.com/workoutLog/images/farrington-WOL-createWorkout-success.png)
+<img src="/images/farrington-WOL-createWorkout-success.png">
 
 ### GET at endpoint /log/
 Gets all workout logs for an individual user.
 #### Success:
-![image of get logs by user success]
-(https://jlfarrington.github.com/workoutLog/images/farrington-WOL-getLogsbyUser-success.png)
+<img src="/images/farrington-WOL-getLogsbyUser-success.png">
 
 ### GET at endpoint /log/:id
 Gets indivudal logs by id for an individual user.
 #### Success:
-![image of get by id success]
-(https://jlfarrington.github.com/workoutLog/images/farrington-WOL-getLogsById-success.png)
+<img src="/images/farrington-WOL-getLogsById-success.png">
 
 ### PUT at endpoint /log/:id
 Allows individual logs to be updated by a user.
 #### Success:
-![image of update log by user success]
-(https://jlfarrington.github.com/workoutLog/images/farrington-WOL-updateLog-success-postman.png)
+<img src="/images/farrington-WOL-updateLog-success-postman.png">
 
 #### Failure:
-![image of update log by user failure]
-(https://jlfarrington.github.com/workoutLog/images/farrington-WOL-updateLog-FAIL-not-users-log.png)
+<img src="/images/farrington-WOL-updateLog-FAIL-not-users-log.png">
 
 ### DELETE at endpoint /log/:id
 Allows individual logs to be deleted by a user.
 #### Success:
-![image of delete success]
-(https://jlfarrington.github.com/workoutLog/images/farrington-WOL-deleteLog-success.png)
+<img src="/images/farrington-WOL-deleteLog-success.png">
 
 
 #### Failure:
-![image of delete failure]
-(https://jlfarrington.github.com/workoutLog/images/farrington-WOL-deleteLog-failure.png)
+<img src="/images/farrington-WOL-deleteLog-failure.png>
