@@ -1,4 +1,4 @@
-# WD70B-workoutLog
+# workoutLog - server
 
 ## Important implementation note:
 Pay special attention to db.js - note the **port number** indicated that is different than the default. This is due to previous installation issues with pgAdmin 4 that will be fixed before any group project work. Change the port number to your desired port before working in this application.
